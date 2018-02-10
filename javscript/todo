@@ -1,0 +1,25 @@
+- Variables
+- for-in
+- for-of
+- while
+
+ES6
+- Template literals
+- const and let
+
+Functions
+- window
+- local vs global variable
+- this keyword
+- closures
+
+DOM
+- selectors
+- modify dom
+- event handling
+
+
+Bonus:
+- AJAX
+- Local Storage
+- Regular expressions
